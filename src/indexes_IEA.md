@@ -65,7 +65,7 @@
 ## Product
 #### Os produtos refere-se às formas básicas de se produzir energia;
 ### Balaço energetico
-- Oil products : Carvão inclui todo o carvão, tanto primário (incluindo carvão duro e linhita) como combustíveis derivados (incluindo combustível patenteado, coque de coque, coque de gás, BKB, gás de fábrica, gás de coqueria, gás de alto forno e outros gases recuperados).
+- Coal, peat and oil shale : Carvão inclui todo o carvão, tanto primário (incluindo carvão duro e linhita) como combustíveis derivados (incluindo combustível patenteado, coque de coque, coque de gás, BKB, gás de fábrica, gás de coqueria, gás de alto forno e outros gases recuperados).
 Turfa (incluindo produtos de turfa) e xisto betuminoso também estão incluídos nesta figura, quando aplicável.
 
 - Crude, NGL and feedstocks : O petróleo bruto compreende petróleo bruto, líquidos de gás natural, matérias-primas de refinaria e aditivos, bem como outros hidrocarbonetos (incluindo óleos emulsificados, petróleo bruto sintético, óleos minerais extraídos de minerais betuminosos, como xisto de óleo, areia betuminosa, etc. e óleos de carvão e gás liquefação).
