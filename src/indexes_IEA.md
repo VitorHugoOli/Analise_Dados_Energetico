@@ -92,7 +92,7 @@ incluída no setor de transformação como insumo e o consumo de calor é inclu�
 
 - Nuclear : Mostra a geração de eletricidade a partir da energia nuclear.
 
-- Fontes : renováveis Mostra a geração de eletricidade a partir de energía hídrica, geotérmica, solar, eólica e das marés / ondas / oceano, bem como de biocombustíveis e resíduos renováveis.
+- Renewable sources : renováveis Mostra a geração de eletricidade a partir de energía hídrica, geotérmica, solar, eólica e das marés / ondas / oceano, bem como de biocombustíveis e resíduos renováveis.
 
 - Total : Mostra a geração total de eletricidade. Os produtos individuais podem não somar ao total, pois o conjunto de dados consiste em apenas uma seleção de produtos.
 
